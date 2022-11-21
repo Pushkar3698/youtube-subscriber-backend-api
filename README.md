@@ -25,6 +25,14 @@ GET https://youtube-subscriber-almabetter.herokuapp.com/subscribers/names to get
 
 GET https://youtube-subscriber-almabetter.herokuapp.com/subscribers/id to get a subscriber by its unique id.
 
+THese test cases can be used to check :-
+63775777065b39f3830c3890
+63775777065b39f3830c388f
+63775777065b39f3830c388e
+
 Note: If the wrong id is entered in the url, then the client will encounter 400 Bad Request status code indicating that the server cannot or will not process the request due to something that is perceived to be a client error and will receive a error message in response.
+
+
+
 
 

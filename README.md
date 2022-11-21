@@ -1,7 +1,6 @@
 Get YouTube Subscribers - Backend Capstone Project
 
 First install npm dependencies of express and mongoose using npm install command.
-Create database in your local computer using node src/createDatabase.js command.
 Start the backend server using npm start or node src/index.js command.
 
 Hii all this is simple api made with the technologies node js, express js, mongoose and mongodb
